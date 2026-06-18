@@ -11,19 +11,10 @@
 <meta property="og:type" content="object" />
 <meta property="og:title" content="Live Draw SGP Tercepat | Hasil Live Draw Singapore Hari Ini Lengkap" />
 <meta property="og:description" content="Cek Live Draw SGP hari ini tercepat dan terlengkap. Update real-time hasil SGP resmi, data keluaran lengkap, panduan membaca result, serta FAQ seputar Live Draw SGP."/>
-<meta property="og:url" content="https://livedrawsgptoto.shop/" />
+<meta property="og:url" content="https://swmcborgbethelbibleinstitute.org/" />
 <meta property="og:site_name" content="Live Draw SGP Tercepat | Hasil Live Draw Singapore Hari Ini Lengkap" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="G2Li71HFucwngagY8Bb7Oj0-xrTzQgny7KKCBfv_wII" />
-<meta name="google-site-verification" content="mPEKZTfhbasOt6TT73cmtawU7TdYUUStFtj3eMzu6ts" />
-<meta name="google-site-verification" content="RbMO0AsX9LFvJnK3uHcDPzBB5p3Wu4poDf5O2UdJFaA" />
-<meta name="google-site-verification" content="wbhGoePb0MDUQLb5-Slzz0HHyWG-KSNtxiLr3OzoCHg" />
-<meta name="google-site-verification" content="u8EVIj81tX5FJSGddLdRV-AiuZybDzqbaaMgVO82qRk" />
-<meta name="google-site-verification" content="72pRpxe8iZICT7G9Z5STtUK6C9_xx9VDbu1W497LZ9E" />
-<meta name="google-site-verification" content="4Sy4Lf1AJOHzGF4kB_vAkd6HHEoHl310PyNmioNa33w" />
-<meta name="google-site-verification" content="aPl17hYAcCFNFktn5ktl3IUR60qGyLWpfpHvzIq3OwY" />
-<meta name="google-site-verification" content="7saZbLlajME2A6RKz81xlanXD77d14ldRkAqO1DbUUw" />
-<link rel="canonical" href="https://livedrawsgptoto.shop/">
+<link rel="canonical" href="https://socialcloud.me/">
 <link rel="icon" href="img/logofavsgp.png" sizes="32x32" />
 <link rel="icon" href="img/logofavsgp.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="img/logofavsgp.png" />
@@ -439,7 +430,7 @@ tr.headd {
 <div class="container2">
 <div class="head">
 
-<a class="logo" href="https://livedrawsgptoto.shop/" title="Live Draw SGP"></a>
+<a class="logo" href="https://swmcborgbethelbibleinstitute.org/" title="Live Draw SGP"></a>
 
 </div>
 <div class="headerbanner">
@@ -447,7 +438,7 @@ tr.headd {
 </div>
 
 <div class="menu">
-<a href="https://livedrawsgptoto.shop/" title="LIVE DRAW SGP" target="_blank">LIVE DRAW SGP</a>
+<a href="https://swmcborgbethelbibleinstitute.org/" title="LIVE DRAW SGP" target="_blank">LIVE DRAW SGP</a>
 </div>
 <div class="banner1">
 
